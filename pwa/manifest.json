@@ -2,7 +2,7 @@
   "name": "Fritgfs Software 3",
   "short_name": "FS3",
   "display": "standalone",
-  "start_url": "/fs3.github.io/boot.html/",
+  "start_url": "/fs3.github.io/boot.html",
   "prefer_related_applications": true,
   "background_color": "#000",
   "icons": [
